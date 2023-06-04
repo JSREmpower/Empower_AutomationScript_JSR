@@ -68,7 +68,7 @@ namespace EmpowerScript_JSR_1
 		/// <param name="engine">Link with SLAutomation process.</param>
 		public void Run(IEngine engine)
 		{
-			engine.GenerateInformation("Hello World, Jeeva");
+			engine.GenerateInformation("Hello World, Rajesh");
 		}
 	}
 }
